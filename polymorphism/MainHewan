@@ -1,0 +1,8 @@
+public class MainHewan{
+	public static void main (String[]args){
+		Hewan ayamboiler = new Ayam();
+		Hewan bebekangsa = new Bebek();
+		ayamboiler.nama();
+		bebekangsa.nama();
+	}
+}
